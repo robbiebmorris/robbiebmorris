@@ -1,10 +1,10 @@
-# Robbie Morris [![Website](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://robbiemorris.com)
-> A curated list of awesome READMEs
+# Robbie Morris [![Website]](https://robbiemorris.com)
+> chicken nuggets
 
-- 🔭 I am currently working on the competition platform DOXA and climatehack.ai's participant portal, as part of the UCL Artificial Intelligence Society.
-- 🌱 I am currently learning Haskell in university and Rust for DOXA
-- 💬 I am looking to find more opportunities to participate in developing new technologies
-- 📫 How to reach me: robbiebmorris@gmail.com
+- I am currently working on the competition platform DOXA and climatehack.ai's participant portal, as part of the UCL Artificial Intelligence Society.
+- I am currently learning Haskell in university and Rust for DOXA
+- I am looking to find more opportunities to participate in developing new technologies
+- How to reach me: robbiebmorris@gmail.com
 
 <!--
 **robbiebmorris/robbiebmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
