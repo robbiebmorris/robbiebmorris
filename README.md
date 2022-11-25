@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I am a computer science student at University College London who enjoys programming.
+# I am a computer science student at University College London who enjoys programming.
 
 - 🔭 I am currently working on the competition platform DOXA and climatehack.ai's participant portal, as part of the UCL Artificial Intelligence Society.
 - 🌱 I am currently learning Haskell in university and Rust for DOXA
