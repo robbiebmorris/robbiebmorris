@@ -1,4 +1,5 @@
-### I am a computer science student at University College London who enjoys programming.
+# Robbie Morris [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/robbiebmorris/robbiebmorris#readme)
+> A curated list of awesome READMEs
 
 - 🔭 I am currently working on the competition platform DOXA and climatehack.ai's participant portal, as part of the UCL Artificial Intelligence Society.
 - 🌱 I am currently learning Haskell in university and Rust for DOXA
