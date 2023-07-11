@@ -1,21 +1,9 @@
 ## Robbie Morris 
 <!-- [![Website](SVG.svg)](https://robbiemorris.com) -->
 > Computer Science Student at University College London
-<!-- <p align="center">
-    <a href="https://github.com/robbiebmorris/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-</p> -->
 
-- I am currently working on the competition platform DOXA and climatehack.ai's participant portal, as part of the UCL Artificial Intelligence Society.
-- I am currently learning C, Haskell, and Java in university, and Rust for DOXA
-- I am looking to find more opportunities to participate in developing new technologies
+- Working on the technical aspects of hosting ClimateHack.AI 2023!
+- I am currently developing new ML projects at ASTRI in C++.
 - How to reach me: robbiebmorris@gmail.com
 
 <!--
