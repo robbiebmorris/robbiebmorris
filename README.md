@@ -3,7 +3,7 @@
 > Computer Science Student at University College London
 
 - Working on the technical aspects of hosting ClimateHack.AI 2023!
-- I am currently developing new ML projects at ASTRI in C++.
+- I am currently working on a few machine learning projects (NLP, CV) in C++ at ASTRI.
 - How to reach me: robbiebmorris@gmail.com
 
 <!--
