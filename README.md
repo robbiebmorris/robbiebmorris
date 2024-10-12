@@ -2,8 +2,9 @@
 <!-- [![Website](SVG.svg)](https://robbiemorris.com) -->
 > Computer Science Student at University College London
 
-- Current SDE Intern at Amazon London!
-- Worked on the technical aspects of hosting ClimateHack.AI 2023!
+- Previous SDE Intern at Amazon London!
+- President of UCL Artificial Intelligence Society
+- Worked on the technical aspects of hosting ClimateHack.AI 2023 (and working on 2024!)
 - How to reach me: robbiebmorris@gmail.com
 
 <!--
