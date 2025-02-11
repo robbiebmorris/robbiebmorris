@@ -4,7 +4,7 @@
 
 - Previous SDE Intern at Amazon London!
 - President of UCL Artificial Intelligence Society
-- Worked on the technical aspects of hosting ClimateHack.AI 2023 (and working on 2024!)
+- Worked on the technical aspects of hosting ClimateHack.AI 2023 (and working on 2025!)
 - How to reach me: robbiebmorris@gmail.com
 
 <!--
