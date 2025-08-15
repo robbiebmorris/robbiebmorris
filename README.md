@@ -1,11 +1,10 @@
 ## Robbie Morris 
 <!-- [![Website](SVG.svg)](https://robbiemorris.com) -->
-> Computer Science Student at University College London
+> SDE I @ Amazon, CS @ University College London, AI @ University of Pennsylvania
 
-- Previous SDE Intern at Amazon London!
-- President of UCL Artificial Intelligence Society
-- Worked on the technical aspects of hosting ClimateHack.AI 2023 (and working on 2025!)
-- How to reach me: robbiebmorris@gmail.com
+- Ex-President of UCL Artificial Intelligence Society 
+- Looking to do research on Robotics, RL, or Requirements Engineering. My most recent work is on automated program specifciation repair (arxiv.org/abs/2505.07270). Please contact me!
+- How to reach me: robbiebmorris@gmail.com, robbie.morris.22@ucl.ac.uk, or robbiem@upenn.edu
 
 <!--
 **robbiebmorris/robbiebmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
