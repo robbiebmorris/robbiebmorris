@@ -3,8 +3,8 @@
 > SDE I @ Amazon, CS @ University College London, AI @ University of Pennsylvania
 
 - Ex-President of UCL Artificial Intelligence Society 
-- Looking to do research on Robotics, RL, or Requirements Engineering. My most recent work is on automated program specifciation repair (arxiv.org/abs/2505.07270). Please contact me!
-- How to reach me: robbiebmorris@gmail.com, robbie.morris.22@ucl.ac.uk, or robbiem@upenn.edu
+- Looking to do research on Robotics, RL, or Requirements Engineering. My most recent work is on automated program specification repair (arxiv.org/abs/2505.07270). Please contact me!
+- How to reach me: robbiebmorris@gmail.com or robbiem@upenn.edu
 
 <!--
 **robbiebmorris/robbiebmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
