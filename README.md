@@ -1,10 +1,8 @@
 ## Robbie Morris 
 <!-- [![Website](SVG.svg)](https://robbiemorris.com) -->
-> SDE I @ Amazon, AI @ University of Pennsylvania, CS @ University College London
+> SDE @ Amazon, AI @ University of Pennsylvania, CS @ University College London
 
-- Ex-President of UCL Artificial Intelligence Society
-- Looking to do research on RL and Formal Methods & Verification. My most recent work is on automated program specification repair (arxiv.org/abs/2505.07270). Please contact me!
-- How to reach me: robbiebmorris@gmail.com or robbiem@seas.upenn.edu
+Send me something interesting: robbiebmorris@gmail.com
 
 <!--
 **robbiebmorris/robbiebmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
